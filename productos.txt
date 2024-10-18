@@ -1,0 +1,2 @@
+Zapatilla,20.0,20
+Perfume,10000.0,43
